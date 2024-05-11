@@ -164,19 +164,19 @@ const { title, description, image = "/nano.png" } = Astro.props;
 
     document.head.appendChild(css);
 
-    const heading = document.querySelector('.main-heading');
+    const heading = document.querySelector(".main-heading");
 
     if (dark) {
       document.documentElement.classList.add("dark");
       if (heading) { // skip for pages with no class constaining .main-heading 
-        heading.classList.remove('main-heading-light');
-        heading.classList.add('main-heading-dark');
+        heading.classList.remove("main-heading-light");
+        heading.classList.add("main-heading-dark");
       } 
     } else {
       document.documentElement.classList.remove("dark");
       if (heading) { // skip for pages with no class constaining .main-heading
-        heading.classList.remove('main-heading-dark');
-        heading.classList.add('main-heading-light');
+        heading.classList.remove("main-heading-dark");
+        heading.classList.add("main-heading-light");
       }
     }
 

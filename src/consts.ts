@@ -60,7 +60,7 @@ export const SKILLS = {
   Bevy, Axum, Tokio, Ratatui, make, cmake, Premake, xmake, 
   Jupyter Notebook, SciPy, scikit-learn`,
   soft: `Self Organized, Adaptable, Critical Thinker, Interpersonal, Problem Solver, Knowledge Sharing`,
-}
+};
 
 export const EDUCATION = {
   schoolName: "Simon Fraser University",
