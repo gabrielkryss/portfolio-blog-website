@@ -2,15 +2,23 @@
 title: "ConsoleFPS"
 description: "First person maze explorer simulator rendered on terminal?"
 date: "Feb 20 2022"
-demoURL: ""
+demoURL: "https://drive.google.com/file/d/1Ylog8d2zuMtuLApk5Bp9DSCAgquoCQd1/view?usp=drive_link"
 repoURL: "https://github.com/gabrielkryss/ConsoleFPS/tree/main"
 draft: false
 ---
 
-<video width="600" height="400" controls>
-  <source src="/portfolio-blog-website/src/content/projects/project-4/v1.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+<!-- <video width="600" height="400" controls> -->
+<!--   <source src="/portfolio-blog-website/src/content/projects/project-4/v1.mp4" type="video/mp4" /> -->
+<!--   Your browser does not support the video tag. -->
+<!-- </video> -->
+
+### Screenshots
+
+![P1](./p1.png)
+
+![P2](./p2.png)
+
+![P3](./p3.png)
 
 ### About
 
@@ -28,10 +36,3 @@ C++
 - Learned how to render different ASCII characters based on ray depth.
 - Learned about terminal screen buffers and how to map player 2D coordinate position onto a screen buffer with a first person perspective, updating over an infinite event loop.
 
-### Screenshots
-
-![P1](./p1.png)
-
-![P2](./p2.png)
-
-![P2](./p3.png)
