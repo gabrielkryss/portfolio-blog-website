@@ -7,18 +7,10 @@ repoURL: "https://github.com/gabrielkryss/ConsoleFPS/tree/main"
 draft: false
 ---
 
-<!-- <video width="600" height="400" controls> -->
-<!--   <source src="/portfolio-blog-website/src/content/projects/project-4/v1.mp4" type="video/mp4" /> -->
-<!--   Your browser does not support the video tag. -->
-<!-- </video> -->
-
-### Screenshots
-
-![P1](./p1.png)
-
-![P2](./p2.png)
-
-![P3](./p3.png)
+<video width="600" height="400" controls>
+  <source src="/portfolio-blog-website/consolefps_demo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ### About
 
@@ -36,3 +28,10 @@ C++
 - Learned how to render different ASCII characters based on ray depth.
 - Learned about terminal screen buffers and how to map player 2D coordinate position onto a screen buffer with a first person perspective, updating over an infinite event loop.
 
+### Screenshots
+
+![P1](./p1.png)
+
+![P2](./p2.png)
+
+![P3](./p3.png)
