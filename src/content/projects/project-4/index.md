@@ -8,7 +8,7 @@ draft: false
 ---
 
 <video width="600" height="400" controls>
-  <source src="/portfolio-blog-website/src/content/projects/project-4/v1.mp4" type="video/mp4">
+  <source src="/portfolio-blog-website/src/content/projects/project-4/v1.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
