@@ -2,7 +2,7 @@
 title: "ConsoleFPS"
 description: "First person maze explorer simulator rendered on terminal?"
 date: "Feb 20 2022"
-demoURL: "https://drive.google.com/file/d/1Ylog8d2zuMtuLApk5Bp9DSCAgquoCQd1/view?usp=drive_link"
+demoURL: ""
 repoURL: "https://github.com/gabrielkryss/ConsoleFPS/tree/main"
 draft: false
 ---
